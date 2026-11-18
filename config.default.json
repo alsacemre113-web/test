@@ -1,0 +1,123 @@
+{
+  "brand": "Dog Auto Theft VI",
+  "ticker": "$DAT",
+  "chain": "Solana",
+  "supply": 1000000000,
+  "contract": "CONTRACT-ADDRESS-GOES-HERE",
+  "tagline": "The coolest dog in Vice City is now on-chain. Turn the key and floor it.",
+  "aboutTitle": "The dog is behind the wheel",
+  "aboutText": "Dog Auto Theft VI is a community-driven meme coin inspired by the most anticipated game launch of the decade. No presale, no hidden wallets: the supply is open to everyone and the distribution is spelled out below.",
+  "tokens": [
+    {
+      "n": "Community and fair launch",
+      "p": 50,
+      "c": "#ff2e93",
+      "d": "Open distribution"
+    },
+    {
+      "n": "Liquidity pool",
+      "p": 20,
+      "c": "#ff9a3c",
+      "d": "Locked, cannot be withdrawn"
+    },
+    {
+      "n": "Marketing",
+      "p": 10,
+      "c": "#ffd23f",
+      "d": "Campaigns and listings"
+    },
+    {
+      "n": "Team",
+      "p": 8,
+      "c": "#2de2e6",
+      "d": "Locked, unlocks gradually"
+    },
+    {
+      "n": "Rewards and ecosystem",
+      "p": 7,
+      "c": "#8a4dff",
+      "d": "Game, NFTs and events"
+    },
+    {
+      "n": "Airdrop",
+      "p": 5,
+      "c": "#5eead4",
+      "d": "For early supporters"
+    }
+  ],
+  "roadSub": "Four stops, one goal: be first to arrive in Vice City.",
+  "phases": [
+    {
+      "title": "Phase 1: The heist plan",
+      "tag": "Launch",
+      "items": [
+        "Website and social accounts go live",
+        "Community setup (Telegram and X)",
+        "Fair launch with locked liquidity"
+      ]
+    },
+    {
+      "title": "Phase 2: The getaway car",
+      "tag": "Growth",
+      "items": [
+        "CoinGecko and CoinMarketCap listings",
+        "10,000 holders milestone",
+        "Influencer and meme campaigns"
+      ]
+    },
+    {
+      "title": "Phase 3: Vice City",
+      "tag": "Expansion",
+      "items": [
+        "Centralized exchange applications",
+        "$DAT collectible NFTs",
+        "Simple browser game"
+      ]
+    },
+    {
+      "title": "Phase 4: Open world",
+      "tag": "Long term",
+      "items": [
+        "Community-voted DAO treasury",
+        "Brand and product partnerships",
+        "New maps, new missions"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Set up a wallet",
+      "text": "Download a Solana wallet such as Phantom."
+    },
+    {
+      "title": "Get SOL",
+      "text": "Buy SOL on an exchange and send it to your wallet."
+    },
+    {
+      "title": "Connect to a DEX",
+      "text": "Open Jupiter or Raydium and connect your wallet."
+    },
+    {
+      "title": "Swap for $DAT",
+      "text": "Paste the contract address and swap your SOL for $DAT."
+    }
+  ],
+  "links": [
+    {
+      "name": "X (Twitter)",
+      "url": "#"
+    },
+    {
+      "name": "Telegram",
+      "url": "#"
+    },
+    {
+      "name": "Dexscreener",
+      "url": "#"
+    }
+  ],
+  "disc1": "$DAT is a meme coin. It is not investment advice and promises no returns. Only trade what you can afford to lose.",
+  "disc2": "Dog Auto Theft VI is an independent community project and is not affiliated with any game company.",
+  "logo": "/images/logo.jpg",
+  "badge": "/images/badge.jpg"
+}
